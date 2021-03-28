@@ -52,7 +52,7 @@ public class MinPerimeterRectangle {
             }
         }
         
-		return minPerimeter;
+	return minPerimeter;
 	}
     
 	private List<Integer> factors(int n) {
@@ -65,7 +65,7 @@ public class MinPerimeterRectangle {
             }
         }
         
-		return factors;
+	return factors;
     }
     public static void main(String args[]){
         MinPerimeterRectangle obj = new MinPerimeterRectangle();
